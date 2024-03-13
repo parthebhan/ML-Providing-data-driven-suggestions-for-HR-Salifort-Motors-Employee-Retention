@@ -1,5 +1,5 @@
 
-# Providing data-driven suggestions for HR - Salifort Motors - Employee Retention¶
+# Providing data-driven suggestions for HR - Salifort Motors - ML - Employee Retention¶
 
 # Introduction:
 
