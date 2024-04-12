@@ -5,9 +5,12 @@
 
 In today's competitive landscape, retaining talent is crucial for organizational success. Salifort Motors, recognizing the importance of employee satisfaction, embarked on a data-driven journey to improve retention rates. This case study delves into how data analytics was utilized to understand the factors influencing employee turnover and to develop predictive models for identifying individuals at risk of leaving the company.
 
-# Business Scenario and Problem:
+# Problem Statement:
 
 Salifort Motors' HR department sought to enhance employee satisfaction levels within the organization. Armed with data collected from employees, they sought insights into the factors contributing to attrition. The primary question posed was: what factors are likely to drive employees to leave the company?
+
+[![Hugging Face Badge](https://img.shields.io/badge/hugging_face_- Salifort_Motors_Employee_Churn_Prediction-ff69b4.svg?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/Parthebhan/Automatidata_fare_estimator)
+
 ## 🛠 Skills
 
 ML Model : 
