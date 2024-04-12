@@ -9,7 +9,9 @@ In today's competitive landscape, retaining talent is crucial for organizational
 
 Salifort Motors' HR department sought to enhance employee satisfaction levels within the organization. Armed with data collected from employees, they sought insights into the factors contributing to attrition. The primary question posed was: what factors are likely to drive employees to leave the company?
 
-[![Hugging Face Badge](https://img.shields.io/badge/hugging_face_- Salifort_Motors_Employee_Churn_Prediction-ff69b4.svg?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/Parthebhan/Automatidata_fare_estimator)
+
+[![Hugging Face Badge](https://img.shields.io/badge/hugging_face_-Employee_Retention_Prediction_App-ff69b4.svg?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/Parthebhan/Automatidata_fare_estimator)
+
 
 ## 🛠 Skills
 
